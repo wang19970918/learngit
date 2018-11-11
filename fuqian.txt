@@ -1,2 +1,3 @@
 fuqian_wang
 fuqian_zhiyu
+Git是世界上最牛逼的分布式管理系统，没有之一。
